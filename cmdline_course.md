@@ -147,7 +147,6 @@ sudo apt-get install ruby ruby-dev
 
 # Course Comprehension Сhart
 
-```markdown
     | Week № | Score |
     |--------|-------|
     | Week 1 |  10/10|
@@ -157,7 +156,7 @@ sudo apt-get install ruby ruby-dev
     | Week 5 |   9/10|
     | Week 6 |  10/10|  
     | Week 7 |  10/10|
-```
+
 # General Feedback
 As you can see from my Course Comprehension Chart, I found it to be fairly easy. However, I can confidently say that it is very useful and provides the basic knowledge that everyone should know in the technology field.
     
