@@ -36,6 +36,9 @@ E-mail: sofia.gruk@helsinki.fi Mobile: +358407771325
 
 [Data generation and formation](https://github.com/gruksd/cmdline-course), This project presents scripts for data formation, namely for splitting text into sentences, tokenization, token counting, etc.
 
+## CV
+[CV](https://www.overleaf.com/read/pxpnkkvshdfm#2e51ca)
+
 ## Misc. 
 
 [Instagram](https://www.instagram.com/itssonyaaaaaa/) 

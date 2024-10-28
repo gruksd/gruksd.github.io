@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![Commnd Line](https://fi.pinterest.com/pin/564990715760512726/)
 
 # Command-Line Course
 
@@ -39,7 +38,12 @@ ssh
 ```
 
 ## Week 3: Basic Corpus Processing
-In the third week, the emphasis was on working with text files. We learned about different encoding systems (ASCII, Latin-1, and UTF-8) and how to convert files between them. We practiced sorting lines in a file, removing duplicates, working with text columns, and extracting data. Additionally, we learned how to search for patterns in files and save results. These skills are particularly useful for analyzing and transforming large amounts of text data.
+In the third week, the emphasis was on working with text files. We learned about different encoding systems and how to convert files between them. We practiced sorting lines in a file, removing duplicates, working with text columns, and extracting data. Additionally, we learned how to search for patterns in files and save results. These skills are particularly useful for analyzing and transforming large amounts of text data.
+
+Encoding systems we learned:
+- ASCII, 
+- Latin-1,
+- UTF-8.
 
 ### Example Code
 ```bash
