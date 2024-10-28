@@ -5,7 +5,7 @@ layout: default
 
 # Command-Line Course
 
-This course introduces the fundamentals of using the command-line interface (CLI). Over several weeks, we covered topics ranging from basic navigation to more advanced shell scripting.
+<img src="assets/images/command-line-icon.jpg" alt="Photo" hspace="20" width="30%" align="right"/>This course introduces the fundamentals of using the command-line interface (CLI). Over several weeks, we covered topics ranging from basic navigation to more advanced shell scripting.
 
 ## Week 1: Introduction to Command Line Environments
 In the first week of the course we got acquainted with such environments as Ubuntu and Linux. We got acquainted with the nano editor, learned how to create new files and edit old ones. We also learned the most basic Linux command line commands, such as:
